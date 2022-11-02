@@ -20,3 +20,7 @@ int main() {
     while(1);
     return 0;
 }
+// command for view process in shell terminal
+// ps -ef | grep sigusr1
+
+
